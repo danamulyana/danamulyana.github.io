@@ -103,17 +103,22 @@ body{
     background: #ce1212;
     border-color: #ce1212;
 }
+.btn-login:active,
 .btn-login:hover{
     background: #dd1818;
     border-color: #dd1818;
+    box-shadow: 0 0 0 0.25rem rgb(130 138 145 / 50%);
 }
+
 .btn-daftar{
     background: #6709c6;
     border-color: #6709c6;
 }
+.btn-daftar:active,
 .btn-daftar:hover{
     background: #7d00ea;
     border-color: #7d00ea;
+    box-shadow: 0 0 0 0.25rem rgb(130 138 145 / 50%);
 }
 
 .owl-carousel{
